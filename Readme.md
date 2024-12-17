@@ -2,7 +2,7 @@
 
 ---
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information as a Frontend Developer. The website is designed to provide a comprehensive overview of my work and professional background.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information as a Frontend Developer. The website is designed to provide a comprehensive overview of my work.
 
 ## Features
 
@@ -10,7 +10,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 - **Responsive Design**: The website is fully responsive and adapts to various screen sizes.
 - **Smooth Navigation**: Easy navigation through sections such as Home, Services, Projects, About, and Contact.
-- **Social Media Links**: Links to my GitHub, LinkedIn, and Instagram profiles.
 - **Project Showcase**: A section dedicated to showcasing my recent projects with descriptions.
 
 ## Technologies Used
