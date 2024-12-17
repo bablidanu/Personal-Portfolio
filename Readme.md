@@ -36,4 +36,3 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ![Screenshot](assets/LandingPage.png)
 ![Screenshot](assets/S2.png)
-![Screenshot](assets/Screenshot%202024-12-17%20212615.png)
